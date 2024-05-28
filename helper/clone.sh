@@ -6,7 +6,7 @@ REPOSITORY_LINKS=(
   https://github.com/zsh-users/zsh-autosuggestions
   https://github.com/joshskidmore/zsh-fzf-history-search
   https://github.com/jimeh/tmux-themepack
-  https://github.com/NvChad/NvChad
+  
 )
 
 REPOSITORY_APIS=(
@@ -15,7 +15,7 @@ REPOSITORY_APIS=(
   repos/zsh-users/zsh-autosuggestions
   repos/joshskidmore/zsh-fzf-history-search
   repos/jimeh/tmux-themepack
-  repos/NvChad/NvChad
+
 )
 
 REPOSITORY_FULL_NAME=(
@@ -33,7 +33,7 @@ REPOSITORY_PATH=(
   $HOME/.oh-my-zsh/custom/plugins/zsh-autosuggestions
   $HOME/.oh-my-zsh/custom/plugins/zsh-fzf-history-search
   $HOME/.tmux-themepack
-  $HOME/NvChad
+  
 )
 
 function repoSize() {
