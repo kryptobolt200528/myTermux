@@ -26,7 +26,6 @@ echo -e "\e[4 q"
 
 #neo
 #clear
-rxfetch
 
 # SSH for Git & GitHub!
 #SSH_ENV="${HOME}/.ssh/agent-environment"
